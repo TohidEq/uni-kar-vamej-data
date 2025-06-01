@@ -1,0 +1,84 @@
+برنامه نویسی
+توسعه دهنده وب
+برنامه نویس فرانت اند
+برنامه نویس بک اند
+برنامه نویس فول استک
+هوش مصنوعی
+یادگیری ماشین
+داده کاوی
+تحلیل داده
+امنیت سایبری
+شبکه های کامپیوتری
+پایگاه داده
+devops
+کلان داده
+رایانش ابری
+علوم کامپیوتر
+مهندسی نرم افزار
+it
+software developer
+web developer
+frontend developer
+backend developer
+fullstack developer
+artificial intelligence
+machine learning
+data mining
+data analysis
+cybersecurity
+computer networks
+database
+big data
+cloud computing
+computer science
+software engineering
+programmer
+python
+javascript
+java
+cpp
+csharp
+ruby
+php
+swift
+kotlin
+go
+rust
+typescript
+sql
+html
+css
+scala
+perl
+r
+matlab
+shell scripting
+assembly
+react
+angular
+vue.js
+node.js
+django
+flask
+ruby on rails
+spring
+asp.net
+laravel
+symfony
+express.js
+jquery
+bootstrap
+tensorflow
+pytorch
+keras
+docker
+kubernetes
+aws
+azure
+google cloud platform
+git
+rest api
+graphql
+microservices
+agile
+scrum
