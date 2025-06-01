@@ -1,6 +1,8 @@
 # پروژه جمع‌آوری داده‌های شغلی از پلتفرم‌های کاریابی
 
-![پروژه داده‌کاوی شغلی](https://example.com/path-to-your-banner-image-if-any.png)
+<div align="center">
+  <img src="https://placehold.co/600x120/23262c/bdbb91?text=KarVamej%20Data&font=tahoma" alt="پروژه داده‌کاوی شغلی">
+</div>
 
 ## 📜 توضیحات پروژه
 
