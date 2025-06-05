@@ -1,11 +1,6 @@
 {
-    "keyword": "artificial intelligence",
-    "searchableSites": [
-        "karlancer",
-        "punisha",
-        "jobinja",
-        "jobvision"
-    ],
-    "jobs": [],
-    "freelancers": []
+  "keyword": "artificial intelligence",
+  "searchableSites": ["karlancer", "ponisha", "jobinja", "jobvision"],
+  "jobs": [],
+  "freelancers": []
 }

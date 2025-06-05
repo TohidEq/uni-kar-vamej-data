@@ -1,12 +1,6 @@
-
 {
   "keyword": "csharp",
-  "searchableSites": [
-    "karlancer",
-    "punisha",
-    "jobinja",
-    "jobvision"
-  ],
+  "searchableSites": ["karlancer", "ponisha", "jobinja", "jobvision"],
   "jobs": [
     {
       "type": "jobinja",

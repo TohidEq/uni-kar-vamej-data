@@ -25,7 +25,7 @@
 
 - JobVision
 - Karlancer
-- Punisha
+- Ponisha
 - Jobinja
 
 لطفاً از طریق یکی از روش‌های زیر با ما تماس بگیرید:

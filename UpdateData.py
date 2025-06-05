@@ -9,7 +9,7 @@ API_URL = "http://localhost:3000"
 def generate_api_url(keyword):
   # Simple normalization: lowercase and replace spaces with '+'
   normalize_keyword = keyword.lower().replace(' ', '+')
-  return f"{API_URL}/api/search?keyword={normalize_keyword}&allowSites=jobvision,karlancer,punisha,jobinja"
+  return f"{API_URL}/api/search?keyword={normalize_keyword}&allowSites=jobvision,karlancer,ponisha,jobinja"
 
 def fetch_and_save_data(keyword):
   """Fetches data from API for a keyword and saves it as a JSON file."""

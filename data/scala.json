@@ -1,27 +1,22 @@
 {
-    "keyword": "scala",
-    "searchableSites": [
-        "karlancer",
-        "punisha",
-        "jobinja",
-        "jobvision"
-    ],
-    "jobs": [
-        {
-            "type": "jobinja",
-            "url": "https://jobinja.ir/companies/samanehaye-hooshmand-sepehr-sharif/jobs/Aaf6/%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D8%AF%D8%A7%D8%AF%D9%87-big-data-engineer-%D8%A7%D9%85%D8%B1%DB%8C%D9%87-%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%B3%D9%BE%D9%87%D8%B1-%D8%B4%D8%B1%DB%8C%D9%81?_ref=16&_t=352e3132312e3235332e323034",
-            "title": "مهندس داده (Big Data Engineer-امریه سربازی)",
-            "caption": null,
-            "salary": -1,
-            "salaryStart": -1,
-            "salaryEnd": -1,
-            "image": "https://thumb2.jobinjacdn.com/TfMW6sbRlSoaxk62--Jbn60u5p8=/fit-in/128x128/filters:strip_exif():fill(transparent):quality(100)/https://mstorage2.jobinjacdn.com/other/files/uploads/images/fbffab36-ab70-4dae-801c-a966058fa72e/main.png",
-            "time": "۱۷ روز پیش",
-            "owner": "سامانه های هوشمند سپهر شریف | Sepehr Sharif Intelligent system Co",
-            "location": "تهران، تهران",
-            "jobType": "قرارداد تمام‌وقت",
-            "id": "https://jobinja.ir/companies/samanehaye-hooshmand-sepehr-sharif/jobs/Aaf6/%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D8%AF%D8%A7%D8%AF%D9%87-big-data-engineer-%D8%A7%D9%85%D8%B1%DB%8C%D9%87-%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%B3%D9%BE%D9%87%D8%B1-%D8%B4%D8%B1%DB%8C%D9%81?_ref=16&_t=352e3132312e3235332e323034"
-        }
-    ],
-    "freelancers": []
+  "keyword": "scala",
+  "searchableSites": ["karlancer", "ponisha", "jobinja", "jobvision"],
+  "jobs": [
+    {
+      "type": "jobinja",
+      "url": "https://jobinja.ir/companies/samanehaye-hooshmand-sepehr-sharif/jobs/Aaf6/%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D8%AF%D8%A7%D8%AF%D9%87-big-data-engineer-%D8%A7%D9%85%D8%B1%DB%8C%D9%87-%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%B3%D9%BE%D9%87%D8%B1-%D8%B4%D8%B1%DB%8C%D9%81?_ref=16&_t=352e3132312e3235332e323034",
+      "title": "مهندس داده (Big Data Engineer-امریه سربازی)",
+      "caption": null,
+      "salary": -1,
+      "salaryStart": -1,
+      "salaryEnd": -1,
+      "image": "https://thumb2.jobinjacdn.com/TfMW6sbRlSoaxk62--Jbn60u5p8=/fit-in/128x128/filters:strip_exif():fill(transparent):quality(100)/https://mstorage2.jobinjacdn.com/other/files/uploads/images/fbffab36-ab70-4dae-801c-a966058fa72e/main.png",
+      "time": "۱۷ روز پیش",
+      "owner": "سامانه های هوشمند سپهر شریف | Sepehr Sharif Intelligent system Co",
+      "location": "تهران، تهران",
+      "jobType": "قرارداد تمام‌وقت",
+      "id": "https://jobinja.ir/companies/samanehaye-hooshmand-sepehr-sharif/jobs/Aaf6/%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D8%AF%D8%A7%D8%AF%D9%87-big-data-engineer-%D8%A7%D9%85%D8%B1%DB%8C%D9%87-%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%B3%D9%BE%D9%87%D8%B1-%D8%B4%D8%B1%DB%8C%D9%81?_ref=16&_t=352e3132312e3235332e323034"
+    }
+  ],
+  "freelancers": []
 }

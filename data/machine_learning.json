@@ -1,11 +1,6 @@
 {
-    "keyword": "machine learning",
-    "searchableSites": [
-        "karlancer",
-        "punisha",
-        "jobinja",
-        "jobvision"
-    ],
-    "jobs": [],
-    "freelancers": []
+  "keyword": "machine learning",
+  "searchableSites": ["karlancer", "ponisha", "jobinja", "jobvision"],
+  "jobs": [],
+  "freelancers": []
 }

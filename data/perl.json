@@ -1,27 +1,22 @@
 {
-    "keyword": "perl",
-    "searchableSites": [
-        "karlancer",
-        "punisha",
-        "jobinja",
-        "jobvision"
-    ],
-    "jobs": [
-        {
-            "type": "jobvision",
-            "url": "https://jobvision.ir/jobs/721213/استخدام-کارشناس-پایگاه-داده-oracle?row=1&pageSize=30&keyword=perl&searchId=388442290520404727&score=3.7414298&ReferrerJobPosition=8",
-            "title": "کارشناس پایگاه داده Oracle",
-            "caption": null,
-            "salary": 0,
-            "salaryStart": 0,
-            "salaryEnd": 0,
-            "image": "https://jobvision.ir/assets/images/jobs/close-white.svg",
-            "time": "86 روز پیش",
-            "owner": "شرکت خدمات انفورماتیک",
-            "location": "تهران",
-            "jobType": null,
-            "id": "https://jobvision.ir/jobs/721213/استخدام-کارشناس-پایگاه-داده-oracle?row=1&pageSize=30&keyword=perl&searchId=388442290520404727&score=3.7414298&ReferrerJobPosition=8"
-        }
-    ],
-    "freelancers": []
+  "keyword": "perl",
+  "searchableSites": ["karlancer", "ponisha", "jobinja", "jobvision"],
+  "jobs": [
+    {
+      "type": "jobvision",
+      "url": "https://jobvision.ir/jobs/721213/استخدام-کارشناس-پایگاه-داده-oracle?row=1&pageSize=30&keyword=perl&searchId=388442290520404727&score=3.7414298&ReferrerJobPosition=8",
+      "title": "کارشناس پایگاه داده Oracle",
+      "caption": null,
+      "salary": 0,
+      "salaryStart": 0,
+      "salaryEnd": 0,
+      "image": "https://jobvision.ir/assets/images/jobs/close-white.svg",
+      "time": "86 روز پیش",
+      "owner": "شرکت خدمات انفورماتیک",
+      "location": "تهران",
+      "jobType": null,
+      "id": "https://jobvision.ir/jobs/721213/استخدام-کارشناس-پایگاه-داده-oracle?row=1&pageSize=30&keyword=perl&searchId=388442290520404727&score=3.7414298&ReferrerJobPosition=8"
+    }
+  ],
+  "freelancers": []
 }
