@@ -1,22 +1,113 @@
 {
-  "keyword": "perl",
-  "searchableSites": ["karlancer", "ponisha", "jobinja", "jobvision"],
-  "jobs": [
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/721213/استخدام-کارشناس-پایگاه-داده-oracle?row=1&pageSize=30&keyword=perl&searchId=388442290520404727&score=3.7414298&ReferrerJobPosition=8",
-      "title": "کارشناس پایگاه داده Oracle",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://jobvision.ir/assets/images/jobs/close-white.svg",
-      "time": "86 روز پیش",
-      "owner": "شرکت خدمات انفورماتیک",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/721213/استخدام-کارشناس-پایگاه-داده-oracle?row=1&pageSize=30&keyword=perl&searchId=388442290520404727&score=3.7414298&ReferrerJobPosition=8"
-    }
-  ],
-  "freelancers": []
+    "keyword": "perl",
+    "searchableSites": [
+        "karlancer",
+        "ponisha",
+        "jobinja",
+        "jobvision"
+    ],
+    "jobs": [
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/721213/استخدام-کارشناس-پایگاه-داده-oracle?row=1&pageSize=30&keyword=perl&searchId=389247983402979437&score=4.1691506745&ReferrerJobPosition=8",
+            "title": "کارشناس پایگاه داده Oracle",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": "https://jobvision.ir/assets/images/jobs/close-white.svg",
+            "time": "24 روز پیش",
+            "owner": "شرکت خدمات انفورماتیک",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/721213/استخدام-کارشناس-پایگاه-داده-oracle?row=1&pageSize=30&keyword=perl&searchId=389247983402979437&score=4.1691506745&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1101170/استخدام-کارشناس-مجازی-سازی-سیستم?row=2&pageSize=30&keyword=perl&searchId=389247983402979437&score=2.7791319826&ReferrerJobPosition=8",
+            "title": "کارشناس مجازی سازی سیستم",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "37 روز پیش",
+            "owner": "داده پردازی ایران",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1101170/استخدام-کارشناس-مجازی-سازی-سیستم?row=2&pageSize=30&keyword=perl&searchId=389247983402979437&score=2.7791319826&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1151283/استخدام-senior-back-end-developer?row=3&pageSize=30&keyword=perl&searchId=389247983402979437&score=2.884455994&ReferrerJobPosition=8",
+            "title": "Senior Back-End Developer",
+            "caption": null,
+            "salary": 50000000,
+            "salaryStart": 50000000,
+            "salaryEnd": 60000000,
+            "image": null,
+            "time": "44 روز پیش",
+            "owner": "شرکت پرتوخطوط اصفهان",
+            "location": "اصفهان",
+            "jobType": "امکان دورکاری",
+            "id": "https://jobvision.ir/jobs/1151283/استخدام-senior-back-end-developer?row=3&pageSize=30&keyword=perl&searchId=389247983402979437&score=2.884455994&ReferrerJobPosition=8"
+        }
+    ],
+    "freelancers": [
+        {
+            "type": "karlancer",
+            "url": "https://www.karlancer.com/projects/%D8%B3%D8%A7%D8%AE%D8%AA-%DB%8C%DA%A9-%D8%B3%D8%A7%DB%8C%D8%AA-%D9%85%D8%B4%D8%A7%D8%A8%D9%87-376r1e435894",
+            "title": "ساخت یک سایت مشابه",
+            "caption": "سلام\n\nمن یک صفحه یا سایت میخوام شبیه به https://radar.arvancloud.ir\n\nمن 10 تا روتربورد میکروتیک دارم\n\nهر کدوم یک اینترنت دارد (افرانت - رسپینا - شاتل - صبانت و ... )\n\nمیخوام این سایت توسط ssh یا telnet یا  api متصل بشه به تمام این روترها و destination مختلف مثل 4.2.2.4 و 8.8.4.4 رو توسط ping بررسی کنه و وضعیت ارتباطی اون روتر تا مقصد مورد نظر (شامل تمامی موارد ping(avrg/maximum/minimume) و paket lost رو روی گراف نشون بده\n\nامکانات:\n\nامکان تعریف روتر جدید وجود داشته باشد\n\nامکان تعریف هر تعداد destination مختلف وجود داشته باشد\n\nامکان تعریف اینکه کدام destination ها توسط کدام روترها بررسی گردد وجود داشته باشد\n\nدیتای دریافتی حتما باید داخل یک دیتابیس ذخیره شود و روی سایت امکان نمایش دیتای لایو و دیتای قدیمی موجود باشد\n\n\nیکی از دوستان اعلام کردند که با prometheus و Grafana قابل انجام است، اگر کسی با این نرم افزارها هم میتواند انجام دهد، لطفا پیام دهد",
+            "salary": 3500000,
+            "image": null,
+            "time": null,
+            "owner": "کارفرمای جدید",
+            "id": "https://www.karlancer.com/projects/%D8%B3%D8%A7%D8%AE%D8%AA-%DB%8C%DA%A9-%D8%B3%D8%A7%DB%8C%D8%AA-%D9%85%D8%B4%D8%A7%D8%A8%D9%87-376r1e435894"
+        },
+        {
+            "type": "karlancer",
+            "url": "https://www.karlancer.com/projects/%D8%B3%D8%B1%D9%88%D8%B1-streamlit-r1n69n40382o",
+            "title": "وب سرور streamlit",
+            "caption": "پروژه مورد نظر طراحی وب سرور با استفاده از streamlit هست که ورودی کد پروتئینی به طور مثال 6f34.pdb  هست که کاربر این کد رو وارد میکنه و برنامه ای که خودم به زبان perl نوشتم رو اجرا میکنه و خروجی رو میده",
+            "salary": 1500000,
+            "image": null,
+            "time": null,
+            "owner": "کارفرمای جدید",
+            "id": "https://www.karlancer.com/projects/%D8%B3%D8%B1%D9%88%D8%B1-streamlit-r1n69n40382o"
+        },
+        {
+            "type": "karlancer",
+            "url": "https://www.karlancer.com/projects/%D9%BE%DB%8C%D8%A7%D9%85%DA%A9-%D9%81%D8%B1%D8%A7%D9%85%D9%88%D8%B4%DB%8C-%D9%BE%D8%B3%D9%88%D8%B1%D8%AF-4906n77378ew",
+            "title": "پیامک فراموشی پسورد",
+            "caption": "سایت با زبان perl هست و نیاز داریم صفحه فراموشی پسورد به آن اضافه کنیم که با استفاده از آن برای کاربر پیامک حاوی کد ارسال شود که با استفاده از آن کاربر بتواند پسورد خود را ریست کند.",
+            "salary": 1500000,
+            "image": null,
+            "time": null,
+            "owner": "کارفرمای جدید",
+            "id": "https://www.karlancer.com/projects/%D9%BE%DB%8C%D8%A7%D9%85%DA%A9-%D9%81%D8%B1%D8%A7%D9%85%D9%88%D8%B4%DB%8C-%D9%BE%D8%B3%D9%88%D8%B1%D8%AF-4906n77378ew"
+        },
+        {
+            "type": "karlancer",
+            "url": "https://www.karlancer.com/projects/%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%87%D8%A7%DB%8C-%D8%AA%D9%88%D8%B5%DB%8C%D9%87-%DA%AF%D8%B1-w206e152m675",
+            "title": "اجرای الگوریتم های سیستم های توصیه گر",
+            "caption": "این پروژه مربوط به مقایسه ی الگوریتم ها در سیستم های توصیه گر هستش. پروژه تا حدود زیادی انجام شده است. داده ها موجود هستند. اسکریپت‌ها هم موجود هست(به زبان perl). برخی تغییرات در الگوریتم ها باید انجام بشه.\n\nپایگاه داده: postgre\nالگوریتم ها به زبان پایتون و r",
+            "salary": 4000000,
+            "image": null,
+            "time": null,
+            "owner": "کارفرمای جدید",
+            "id": "https://www.karlancer.com/projects/%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%87%D8%A7%DB%8C-%D8%AA%D9%88%D8%B5%DB%8C%D9%87-%DA%AF%D8%B1-w206e152m675"
+        },
+        {
+            "type": "ponisha",
+            "url": "https://ponisha.ir/project/647772/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1-%D8%AF%D8%A7%DB%8C%D8%B1%D9%87-%D8%A7%DB%8C",
+            "title": "پروژه نمودار دایره ای",
+            "caption": "سلاممیخوام پروژه رسم نمودار دایره ای شکل 3 مقاله رو انجام بدین با برنامه نویسR,perlوcircosنمودار 3 این مقاله دقیقا باید با داده های ساختگی با همین کیفیت و جزئیات کشیده بشه و تمام کدها نوع داده های ورودی و فیلم تمام مراحل اجرا برام فرستاده و کامل توضیح داده بشه , و فقط روی ویندوز انجام بشه اول perl را نصب کنید بعد از سایت circos همین نرم افزار را نصب کنید بعد با پکیج SOFIA کانفینگ مناسب برای رسم نمودار چند لایه دقیقا مشابه مقاله در circos را تولید و فایل خروجی را به صورت svg ذخیره کنیدمشاهده‌ی پروژه",
+            "salary": 3000000,
+            "image": null,
+            "time": "6 روز و 1 ساعت",
+            "owner": "ناشناخته",
+            "id": "https://ponisha.ir/project/647772/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1-%D8%AF%D8%A7%DB%8C%D8%B1%D9%87-%D8%A7%DB%8C"
+        }
+    ]
 }

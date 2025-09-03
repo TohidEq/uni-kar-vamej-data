@@ -1,546 +1,577 @@
 {
-  "keyword": "azure",
-  "searchableSites": ["karlancer", "ponisha", "jobinja", "jobvision"],
-  "jobs": [
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/939967/استخدام-کارشناس-اسکرام-مستر---آقا?row=1&pageSize=30&keyword=azure&searchId=388442350362498283&score=5.8470932831999995&ReferrerJobPosition=8",
-      "title": "کارشناس اسکرام مستر - آقا",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://jobvision.ir/assets/images/jobs/close-white.svg",
-      "time": "21 روز پیش",
-      "owner": "فناوری اطلاعات مهر اندیش آکام",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/939967/استخدام-کارشناس-اسکرام-مستر---آقا?row=1&pageSize=30&keyword=azure&searchId=388442350362498283&score=5.8470932831999995&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1117626/استخدام-کارشناس-طراحی-crm?row=2&pageSize=30&keyword=azure&searchId=388442350362498283&score=5.534824672&ReferrerJobPosition=8",
-      "title": "کارشناس طراحی CRM",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=33872993&width=50&height=50",
-      "time": "4 روز پیش",
-      "owner": "گروه برق و صنعت پردیس",
-      "location": "مشهد",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1117626/استخدام-کارشناس-طراحی-crm?row=2&pageSize=30&keyword=azure&searchId=388442350362498283&score=5.534824672&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1105417/استخدام-اسکرام-مستر?row=3&pageSize=30&keyword=azure&searchId=388442350362498283&score=5.0254582368&ReferrerJobPosition=8",
-      "title": "اسکرام مستر",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=3993629&width=50&height=50",
-      "time": "5 روز پیش",
-      "owner": "گروه صنایع گیتی پسند",
-      "location": "اصفهان",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1105417/استخدام-اسکرام-مستر?row=3&pageSize=30&keyword=azure&searchId=388442350362498283&score=5.0254582368&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1119216/استخدام-data-warehouse-developer?row=4&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.895007583&ReferrerJobPosition=8",
-      "title": "Data Warehouse Developer",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=143635&width=50&height=50",
-      "time": "2 روز پیش",
-      "owner": "میلان پارس فارمد",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1119216/استخدام-data-warehouse-developer?row=4&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.895007583&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1102146/استخدام-کارشناس-فناوری-اطلاعات-it?row=5&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.997353692899999&ReferrerJobPosition=8",
-      "title": "کارشناس فناوری اطلاعات (IT)",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=150423&width=50&height=50",
-      "time": "16 روز پیش",
-      "owner": "رادمن",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1102146/استخدام-کارشناس-فناوری-اطلاعات-it?row=5&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.997353692899999&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1103552/استخدام-devops-engineer?row=6&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.995794464&ReferrerJobPosition=8",
-      "title": "DevOps Engineer",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=21486720&width=50&height=50",
-      "time": "16 روز پیش",
-      "owner": "هلدینگ ارنیکا",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1103552/استخدام-devops-engineer?row=6&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.995794464&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1100431/استخدام-devops-engineer?row=7&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.917073370000001&ReferrerJobPosition=8",
-      "title": "DevOps Engineer",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=21486720&width=50&height=50",
-      "time": "20 روز پیش",
-      "owner": "هلدینگ ارنیکا",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1100431/استخدام-devops-engineer?row=7&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.917073370000001&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1094514/استخدام-full-stack-developer?row=8&pageSize=30&keyword=azure&searchId=388442350362498283&score=3.9417927679999996&ReferrerJobPosition=8",
-      "title": "Full-Stack Developer",
-      "caption": null,
-      "salary": 45000000,
-      "salaryStart": 45000000,
-      "salaryEnd": 60000000,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=32860158&width=50&height=50",
-      "time": "3 روز پیش",
-      "owner": "نواویژن",
-      "location": "امکان دورکاری",
-      "jobType": "امکان دورکاری",
-      "id": "https://jobvision.ir/jobs/1094514/استخدام-full-stack-developer?row=8&pageSize=30&keyword=azure&searchId=388442350362498283&score=3.9417927679999996&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1098813/استخدام-کارشناس-devops?row=9&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.3206677896&ReferrerJobPosition=8",
-      "title": "کارشناس DevOps",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=11771740&width=50&height=50",
-      "time": "21 روز پیش",
-      "owner": "پاداش",
-      "location": "تهران",
-      "jobType": "امکان دورکاری",
-      "id": "https://jobvision.ir/jobs/1098813/استخدام-کارشناس-devops?row=9&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.3206677896&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1099129/استخدام-کارشناس-پشتیبانی-فنی?row=10&pageSize=30&keyword=azure&searchId=388442350362498283&score=3.7191160495999998&ReferrerJobPosition=8",
-      "title": "کارشناس پشتیبانی فنی",
-      "caption": null,
-      "salary": 20000000,
-      "salaryStart": 20000000,
-      "salaryEnd": 24000000,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=154315&width=50&height=50",
-      "time": "21 روز پیش",
-      "owner": "پیشگام رایان داده پژوه",
-      "location": "اصفهان",
-      "jobType": "امکان جذب کارآموز",
-      "id": "https://jobvision.ir/jobs/1099129/استخدام-کارشناس-پشتیبانی-فنی?row=10&pageSize=30&keyword=azure&searchId=388442350362498283&score=3.7191160495999998&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1120350/استخدام-scrum-master?row=11&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.1806921775&ReferrerJobPosition=8",
-      "title": "Scrum Master",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=1276437&width=50&height=50",
-      "time": "دیروز",
-      "owner": "پرداخت الکترونیک سامان کیش (سپ)",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1120350/استخدام-scrum-master?row=11&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.1806921775&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1111552/استخدام-data-analyst?row=12&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.170193996799999&ReferrerJobPosition=8",
-      "title": "Data Analyst",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=152041&width=50&height=50",
-      "time": "9 روز پیش",
-      "owner": "فلایتیو",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1111552/استخدام-data-analyst?row=12&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.170193996799999&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/774544/استخدام-software-front-end-developer?row=13&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.9757759488&ReferrerJobPosition=8",
-      "title": "Software Front-End Developer",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=133216&width=50&height=50",
-      "time": "29 روز پیش",
-      "owner": "فرینه فناور",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/774544/استخدام-software-front-end-developer?row=13&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.9757759488&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/831892/استخدام-برنامه-نویس-full-stack-php?row=14&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.1088154144&ReferrerJobPosition=8",
-      "title": "برنامه نویس Full-Stack (PHP)",
-      "caption": null,
-      "salary": 20000000,
-      "salaryStart": 20000000,
-      "salaryEnd": 30000000,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=133503&width=50&height=50",
-      "time": "29 روز پیش",
-      "owner": "داده پردازی خوارزمی",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/831892/استخدام-برنامه-نویس-full-stack-php?row=14&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.1088154144&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1030081/استخدام-کارشناس-devops---آقا?row=15&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.939981013&ReferrerJobPosition=8",
-      "title": "کارشناس DevOps - آقا",
-      "caption": null,
-      "salary": 19000000,
-      "salaryStart": 19000000,
-      "salaryEnd": 20000000,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=5340321&width=50&height=50",
-      "time": "10 روز پیش",
-      "owner": "فاوا فناوری افق",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1030081/استخدام-کارشناس-devops---آقا?row=15&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.939981013&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1118424/استخدام-devops-engineer?row=16&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.8498880629&ReferrerJobPosition=8",
-      "title": "DevOps Engineer",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=21294552&width=50&height=50",
-      "time": "2 روز پیش",
-      "owner": "نوآوران داده سلامت پیشرو",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1118424/استخدام-devops-engineer?row=16&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.8498880629&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/881859/استخدام-اسکرام-مستر-scrum-master?row=17&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.0848691281&ReferrerJobPosition=8",
-      "title": "اسکرام مستر (Scrum Master)",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=5773234&width=50&height=50",
-      "time": "5 روز پیش",
-      "owner": "فلای تودی",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/881859/استخدام-اسکرام-مستر-scrum-master?row=17&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.0848691281&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1107832/استخدام-ادمین-شبکه?row=18&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.8438798659999995&ReferrerJobPosition=8",
-      "title": "ادمین شبکه",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=1005854&width=50&height=50",
-      "time": "3 روز پیش",
-      "owner": "کشت و صنعت روژین تاک",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1107832/استخدام-ادمین-شبکه?row=18&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.8438798659999995&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1103453/استخدام-کارشناس-rd?row=19&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.062137067&ReferrerJobPosition=8",
-      "title": "کارشناس R&D",
-      "caption": null,
-      "salary": 30000000,
-      "salaryStart": 30000000,
-      "salaryEnd": 40000000,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=1266123&width=50&height=50",
-      "time": "دیروز",
-      "owner": "ایمن سازان پترو",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1103453/استخدام-کارشناس-rd?row=19&pageSize=30&keyword=azure&searchId=388442350362498283&score=4.062137067&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1045513/استخدام-مهندس-داده?row=20&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.7144440769&ReferrerJobPosition=8",
-      "title": "مهندس داده",
-      "caption": null,
-      "salary": 35000000,
-      "salaryStart": 35000000,
-      "salaryEnd": 45000000,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=19212114&width=50&height=50",
-      "time": "دیروز",
-      "owner": "دیبا پارسیان",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1045513/استخدام-مهندس-داده?row=20&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.7144440769&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1042098/استخدام-برنامه-نویس-net?row=21&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.6903501184&ReferrerJobPosition=8",
-      "title": "برنامه نویس .NET",
-      "caption": null,
-      "salary": 20000000,
-      "salaryStart": 20000000,
-      "salaryEnd": 25000000,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=153716&width=50&height=50",
-      "time": "45 روز پیش",
-      "owner": "تسکا صنعت",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1042098/استخدام-برنامه-نویس-net?row=21&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.6903501184&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/809645/استخدام-software-back-end-developer?row=22&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.6801467568000006&ReferrerJobPosition=8",
-      "title": "Software Back-End Developer",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=133216&width=50&height=50",
-      "time": "29 روز پیش",
-      "owner": "فرینه فناور",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/809645/استخدام-software-back-end-developer?row=22&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.6801467568000006&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1119027/استخدام-devops-engineer?row=23&pageSize=30&keyword=azure&searchId=388442350362498283&score=3.5576948087000004&ReferrerJobPosition=8",
-      "title": "DevOps Engineer",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=24464194&width=50&height=50",
-      "time": "2 روز پیش",
-      "owner": "ویستا سامانه آسا",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1119027/استخدام-devops-engineer?row=23&pageSize=30&keyword=azure&searchId=388442350362498283&score=3.5576948087000004&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1049699/استخدام-full-stack-developer?row=24&pageSize=30&keyword=azure&searchId=388442350362498283&score=3.4980100320000003&ReferrerJobPosition=8",
-      "title": "Full-Stack Developer",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=150767&width=50&height=50",
-      "time": "57 روز پیش",
-      "owner": "مهندسین مشاور رایان خاورمیانه ایرانیان",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1049699/استخدام-full-stack-developer?row=24&pageSize=30&keyword=azure&searchId=388442350362498283&score=3.4980100320000003&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1040457/استخدام-کارشناس-bi?row=25&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.5001369&ReferrerJobPosition=8",
-      "title": "کارشناس BI",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=142201&width=50&height=50",
-      "time": "38 روز پیش",
-      "owner": "گلستان",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1040457/استخدام-کارشناس-bi?row=25&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.5001369&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1111668/استخدام-کارشناس-devops?row=26&pageSize=30&keyword=azure&searchId=388442350362498283&score=3.2821554011999994&ReferrerJobPosition=8",
-      "title": "کارشناس DevOps",
-      "caption": null,
-      "salary": 50000000,
-      "salaryStart": 50000000,
-      "salaryEnd": 60000000,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=3136012&width=50&height=50",
-      "time": "9 روز پیش",
-      "owner": "امیدپی",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1111668/استخدام-کارشناس-devops?row=26&pageSize=30&keyword=azure&searchId=388442350362498283&score=3.2821554011999994&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1090038/استخدام-product-manager?row=27&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.486932122&ReferrerJobPosition=8",
-      "title": "Product Manager",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=20917540&width=50&height=50",
-      "time": "8 روز پیش",
-      "owner": "تپسی‌شاپ",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1090038/استخدام-product-manager?row=27&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.486932122&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1082073/استخدام-senior-java-developer?row=28&pageSize=30&keyword=azure&searchId=388442350362498283&score=3.1606823057999995&ReferrerJobPosition=8",
-      "title": "Senior Java Developer",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=154287&width=50&height=50",
-      "time": "13 روز پیش",
-      "owner": "بهسا (تابعه هلدینگ همراه اول)",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1082073/استخدام-senior-java-developer?row=28&pageSize=30&keyword=azure&searchId=388442350362498283&score=3.1606823057999995&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1038752/استخدام-کارشناس-devops?row=29&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.2859533944000003&ReferrerJobPosition=8",
-      "title": "کارشناس DevOps",
-      "caption": null,
-      "salary": 20000000,
-      "salaryStart": 20000000,
-      "salaryEnd": 30000000,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=30620139&width=50&height=50",
-      "time": "27 روز پیش",
-      "owner": "فناوری اطلاعات دیار وب",
-      "location": "اهواز",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1038752/استخدام-کارشناس-devops?row=29&pageSize=30&keyword=azure&searchId=388442350362498283&score=2.2859533944000003&ReferrerJobPosition=8"
-    },
-    {
-      "type": "jobvision",
-      "url": "https://jobvision.ir/jobs/1107124/استخدام-bi-developer?row=30&pageSize=30&keyword=azure&searchId=388442350362498283&score=3.1249549248&ReferrerJobPosition=8",
-      "title": "BI Developer",
-      "caption": null,
-      "salary": 0,
-      "salaryStart": 0,
-      "salaryEnd": 0,
-      "image": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=24263539&width=50&height=50",
-      "time": "14 روز پیش",
-      "owner": "تکنولایف",
-      "location": "تهران",
-      "jobType": null,
-      "id": "https://jobvision.ir/jobs/1107124/استخدام-bi-developer?row=30&pageSize=30&keyword=azure&searchId=388442350362498283&score=3.1249549248&ReferrerJobPosition=8"
-    }
-  ],
-  "freelancers": [
-    {
-      "type": "karlancer",
-      "url": "https://www.karlancer.com/projects/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%85%D8%A7%D8%B1%DA%A9%D8%AA-%D9%BE%D9%84%DB%8C%D8%B3-%D9%85%D8%B4%D8%A7%D8%A8%D9%87-%D8%B9%D9%84%DB%8C-%D8%A8%D8%A7%D8%A8%D8%A7-1e82m9eoe63w",
-      "title": "طراحی مارکت پلیس مشابه علی بابا",
-      "caption": "تعریف پروژه > یک پلت فرم شبیه به علی بابا ، b2b ، که سه گروه : فروشندگان / خریداران / بازدیدکنندگان را به هم مرتبط می کند . خرید و فروش در این وب سایت انجام نمی گیرد . \n\nفروشندگان\nچه کسانی هستند: تولیدکنندگان، عمده‌فروشان یا شرکت‌های بازرگانی که محصولات را به مخاطبان جهانی ارائه می‌دهند.\nویژگی‌های کلیدی:\nایجاد ویترین فروشگاه: ویترین‌های آنلاین قابل تنظیم برای نمایش محصولات و اطلاعات شرکت.\nلیست محصولات: ابزارهایی برای آپلود و مدیریت لیست محصولات با توضیحات و تصاویر دقیق.\nبازاریابی و تبلیغات: دسترسی به ابزارهای تبلیغاتی برای افزایش دیده شدن محصول.\nتجزیه و تحلیل عملکرد: بینش‌هایی در مورد ترافیک، سوالات و فروش برای بهینه‌سازی استراتژی‌های تجاری.\n\nخریداران\nچه کسانی هستند: مشاغل یا افرادی که به دنبال خرید محصولات، اغلب به صورت عمده، برای فروش مجدد یا استفاده داخلی هستند.\nویژگی‌های کلیدی:\nجستجو و کشف محصول: دسترسی به کاتالوگ گسترده‌ای از محصولات در دسته‌بندی‌های مختلف.\nدرخواست پیش‌فاکتور (RFQ): امکان درخواست پیش‌فاکتور از چندین تأمین‌کننده برای مقایسه قیمت‌ها و شرایط.\nارتباط امن: سیستم پیام‌رسانی داخلی برای ارتباط مستقیم با تأمین‌کنندگان.\n\nبازدیدکنندگان\nچه کسانی هستند: کاربران ثبت‌نام‌نشده‌ای که بدون انجام تراکنش، پلتفرم را مرور می‌کنند.\nویژگی‌های کلیدی:\nدسترسی محدود: امکان مرور لیست محصولات و پروفایل‌های تأمین‌کنندگان.\nبدون تعامل: بدون ثبت‌نام نمی‌توان درخواست ارسال کرد، قیمت گرفت یا خرید انجام داد.\n\n\nثبت‌نام تشویقی بخش فروشندگان: \nبرای دسترسی به ویژگی‌ها و مزایای کامل پلتفرم، از شما خواسته می‌شود ثبت‌نام کنید.\n1پایه: ابزارهای ضروری برای فروشندگان جهت فهرست کردن محصولات و مدیریت درخواست‌ها را فراهم می‌کند.\n2استاندارد: شامل ویژگی‌های اضافی مانند سفارشی‌سازی پیشرفته فروشگاه و ابزارهای بازاریابی است.\n3پریمیوم: مزایای پیشرفته‌ای مانند پشتیبانی مشتری اولویت‌دار و افزایش دیده شدن را ارائه می‌دهد.\n4تامین‌کننده تأیید شده: فروشندگان تحت یک فرآیند تأیید جامع قرار می‌گیرند که اعتبار و اعتماد خریداران را افزایش می‌دهد.\n\nهر سطح برای ارائه خدمات به مشاغل در مراحل مختلف طراحی شده است و به فروشندگان اجازه می‌دهد طرحی را انتخاب کنند که با اهداف و منابع آنها همسو باشد.\n\nوضعیت تأمین‌کننده تأیید شده\nنشان تأمین‌کننده تأیید شده نشان می‌دهد که یک فروشنده بررسی‌های احراز هویت و تأیید وب سایت را با موفقیت پشت سر گذاشته است. این وضعیت می‌تواند:\nنمایش محصولات در صفحه های فروشندگان وب سایت \nاعتماد خریدار را افزایش دهد.\nرتبه‌بندی جستجو را بهبود بخشد.\nدسترسی به فرصت‌های تبلیغاتی انحصاری را فراهم کند.\nدستیابی به این وضعیت مستلزم ارائه مجوزهای کسب و کار و انجام بازرسی‌های حضوری یا ارزیابی‌های شخص ثالث است.\n\n⭐ ۳. سیستم رتبه‌بندی ستاره‌ای\nوب سایت از یک سیستم رتبه‌بندی ۱ تا 5 ستاره برای ارزیابی عملکرد فروشنده بر اساس عواملی مانند موارد زیر استفاده می‌کند:\nکیفیت محصول: ثبات و قابلیت اطمینان محصولات ارائه شده.\nکیفیت خدمات: پاسخگویی و حرفه‌ای بودن در تعاملات با خریدار.\nاثربخشی بازاریابی: موفقیت در جذب و حفظ مشتریان.\nرتبه‌بندی ستاره‌ای بالاتر می‌تواند منجر به موارد زیر شود:\nافزایش دیده شدن در نتایج جستجو.\nواجد شرایط بودن برای رویدادهای تبلیغاتی ویژه.\nافزایش اعتماد از سوی خریداران بالقوه.\nحفظ رتبه‌بندی ستاره‌ای بالا نیازمند عملکرد مداوم و پایبندی به سیاست‌های پلتفرم است.\n\n\nTechnical Skills\nFrontend Development:\n\nProficiency in HTML5, CSS3, and JavaScript.\n\nExperience with modern JavaScript frameworks like React, Angular, or Vue.js.\n\nKnowledge of responsive design principles and cross-browser compatibility.\n\nBackend Development:\n\nStrong command of server-side languages such as Java, Python, Node.js, or PHP.\n\nExperience with backend frameworks like Spring Boot (Java), Django (Python), or Express.js (Node.js).\n\nUnderstanding of RESTful API design and integration.\n\nDatabase Management:\n\nFamiliarity with relational databases like MySQL or PostgreSQL.\n\nExperience with NoSQL databases such as MongoDB or Redis for handling unstructured data.\n\nDevOps and Deployment:\n\nKnowledge of containerization tools like Docker and orchestration platforms like Kubernetes.\n\nExperience with cloud services (e.g., AWS, Azure, or Alibaba Cloud) for scalable deployment.\n\nProficiency in CI/CD pipelines and version control systems like Git.\n\nSecurity and Compliance:\n\nUnderstanding of web security protocols and best practices.\n\nFamiliarity with data protection regulations relevant to your target audience.\n\n🛠️ Soft Skills\nProblem-Solving: Ability to troubleshoot issues and optimize performance.\n\nCommunication: Clear articulation of technical concepts to non-technical stakeholders.\n\nProject Management: Experience with Agile methodologies and tools like Jira or Trello.\n\nAdaptability: Willingness to learn new technologies and adapt to changing project requirements.",
-      "salary": 40000000,
-      "image": null,
-      "time": "۱۹ روز پیش",
-      "owner": "کارفرمای جدید",
-      "id": "https://www.karlancer.com/projects/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%85%D8%A7%D8%B1%DA%A9%D8%AA-%D9%BE%D9%84%DB%8C%D8%B3-%D9%85%D8%B4%D8%A7%D8%A8%D9%87-%D8%B9%D9%84%DB%8C-%D8%A8%D8%A7%D8%A8%D8%A7-1e82m9eoe63w"
-    },
-    {
-      "type": "karlancer",
-      "url": "https://www.karlancer.com/projects/%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%AF%D9%87%D9%86%D8%AF%D9%87-%D8%A8%D8%A7%D8%AA-%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85-%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AA%D8%AC%D8%B1%D8%A8%D9%87-%D9%85%D8%B3%D9%84%D8%B7-%DA%A9%D8%A7%D9%85%D9%84-2564mnr1m8n0",
-      "title": "توسعه دهنده بات تلگرام و وبسایت - با تجربه و مسلط کامل",
-      "caption": "سلام و وقت‌ بخیر،\n\nلطفاً تنها در صورتی که تمام شرایط زیر را دارید، پیام دهید.\nبا تشکر.\n\nبرای یک پروژه فریلنسری به توسعه‌دهنده بات‌های تلگرام نیاز داریم (عمدتاً با Python). عمدهٔ کار شامل برنامه‌نویسی async، طراحی و مدیریت database، راه‌اندازی روی cloud servers و توسعه mini-app و اتصال آن به وب‌سایت برای اجرا به‌صورت standalone است. پرداخت متناسب با تجربه و کیفیت کار خواهد بود.\n\n**شرایط احراز**\n\n* تسلط کامل به Python و فریم‌ورک‌های مرتبط با Telegram Bot API\n* تجربه در برنامه‌نویسی async و مدیریت concurrency\n* مهارت در طراحی، پیاده‌سازی و بهینه‌سازی database (SQL و/or NoSQL)\n* آشنایی با cloud servers (AWS, Google Cloud, Azure یا معادل) و کانفیگ محیط production\n* توانایی توسعه mini-app و اتصال آن به وب‌سایت جهت اجرای standalone\n* آشنایی به اتصال سیستم های پرداخت ماننده stripe و PayPal به بات.\n* درک عمیق پروتکل‌های شبکه، وب‌هوک (webhooks) و REST API\n* سابقهٔ کار در پروژه‌های مشابه و ارائه نمونه‌کار (GitHub، لینک پروژه یا مستندات)\n\nدر صورت داشتن همه شرایط فوق، لطفاً رزومه و معرفی پروژه‌های پیشین خود را ارسال کنید.\n\nبا سپاس فراوان.",
-      "salary": 30000000,
-      "image": null,
-      "time": "۲۰ روز پیش",
-      "owner": "کارفرمای جدید",
-      "id": "https://www.karlancer.com/projects/%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%AF%D9%87%D9%86%D8%AF%D9%87-%D8%A8%D8%A7%D8%AA-%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85-%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AA%D8%AC%D8%B1%D8%A8%D9%87-%D9%85%D8%B3%D9%84%D8%B7-%DA%A9%D8%A7%D9%85%D9%84-2564mnr1m8n0"
-    },
-    {
-      "type": "karlancer",
-      "url": "https://www.karlancer.com/projects/%D9%81%D9%88%D9%84-%D8%A7%D8%B3%D8%AA%DA%A9-%D8%AF%D9%88%D8%B1%DA%A9%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%85-%D9%88%D9%82%D8%AA%D8%AF%D8%A7%D8%A6%D9%85-w187o49n080r",
-      "title": "فول استک (دورکار/تمام وقت/دائم)",
-      "caption": "عنوان شغلی: Full Stack Developer (.NET Core / React)\nموقعیت: تمام‌وقت / دورکاری\n\nما به دنبال یک توسعه‌دهنده فول‌استک با تجربه و مهارت بالا هستیم که در یک تیم فناوری‌محور، محصول‌گرا و چابک فعالیت کند. پروژه‌های ما مبتنی بر معماری مدرن، میکروسرویس، و زیرساخت ابری مقیاس‌پذیر هستند.\n\nمهارت‌های ضروری:\n\t•\tتسلط کامل به .NET Core و React.js\n\t•\tتجربه عملی در طراحی و توسعه معماری میکروسرویس\n\t•\tدرک قوی از Message/Event-based Communication با ابزارهایی مثل ، Kafka یا Azure Service Bus\n\t•\tتسلط بر Object-Oriented Programming (OOP) و پیاده‌سازی اصول SOLID و الگوهای طراحی رایج (GoF Design Patterns)\n\t•\tتجربه کار با RESTful APIها و ترجیحاً gRPC\n\nمزایا:\n\t•\tدسترسی به زیرساخت‌های ابری مدرن شامل AWS و Azure\n\t•\tمحیط توسعه بر بستر Azure Kubernetes Services (AKS)\n\t•\tفرصت کار روی محصولات مقیاس‌پذیر با زیرساخت رو به رشد و تعامل با سیستم‌های distributed\n\t•\tرویکرد توسعه‌ای محصول‌محور با تمرکز بر اتوماسیون فرآیندها و تحلیل داده\n\t•\tدسترسی به منابع آموزشی به‌روز و فرصت‌های رشد حرفه‌ای\n\t•\tکاملاً دورکاری با ساعت کاری منعطف و مبتنی بر نتیجه (output-based)\n\nامتیاز محسوب می‌شود اگر:\n\t•\tتجربه در سیستم‌های multi-tenant SaaS\n\t•\tتجربه با Domain-Driven Design (DDD) و Event Sourcing\n\t•\tدانش در زمینه Clean Architecture",
-      "salary": 40000000,
-      "image": null,
-      "time": "۲۳ روز پیش",
-      "owner": "کارفرمای جدید",
-      "id": "https://www.karlancer.com/projects/%D9%81%D9%88%D9%84-%D8%A7%D8%B3%D8%AA%DA%A9-%D8%AF%D9%88%D8%B1%DA%A9%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%85-%D9%88%D9%82%D8%AA%D8%AF%D8%A7%D8%A6%D9%85-w187o49n080r"
-    },
-    {
-      "type": "karlancer",
-      "url": "https://www.karlancer.com/projects/%D9%85%D8%AF%DB%8C%D8%B1-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-cto%D9%85%D8%AF%DB%8C%D8%B1-%D9%85%D8%AD%D8%B5%D9%88%D9%84pmo-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3-r78w5992181w",
-      "title": "مدیر فناوری cto/مدیر محصولpmo/ برنامه نویس",
-      "caption": "ما در حال توسعه یک سیستم پرونده الکترونیک سلامت (EHR) پیشرفته با معماری میکروسرویس است. این سیستم با هدف بهبود مدیریت اطلاعات ، ارائه خدمات هوشمند و مشاوره ، و افزایش امنیت داده‌های پزشکی طراحی شده است. ما به دنبال افراد باانگیزه و خلاق برای پیوستن به تیم پویا و روبه‌رشد خود هستیم.\n\nلطفا پس از مطالعه مهارت های مورد نیاز ، رزومه واقعی متناسب با توانایی ها ارسال کنید. در صورت نداشتن سابقه مدیریتی یا چک لیست های مورد نیاز ، رزومه متناسب خود را ارسال کنید تا جهت همکاری در رول های دیگر در تیم های زیرساخت ، طراحی( front-end , back , data ) , ... در نظر گرفته شوید و جهت مصاحبه مورد بررسی قرار میگیرد.\n\nمسئولیت‌ها:\nطراحی، توسعه و پیاده‌سازی معماری میکروسرویس برای سیستم EHR با تمرکز بر امنیت، مقیاس‌پذیری و عملکرد.\nهدایت تیم‌های توسعه‌دهنده نرم‌افزار و نظارت بر اجرای پروژه‌های فنی.\nایجاد و پیاده‌سازی استراتژی‌های فناوری و زیرساخت‌های فنی.\nاطمینان از یکپارچگی با سیستم‌های خارجی مانند HIS، LIS، و شرکت‌های بیمه.\nمدیریت فرآیندهای DevOps و CI/CD برای بهبود کارایی توسعه و استقرار.\nهمکاری با سایر مدیران برای هماهنگی پروژه‌ها و دستیابی به اهداف سازمانی.\nتوانایی‌ها و مهارت‌های مورد نیاز:\nتسلط بر معماری میکروسرویس و تجربیات عملی در طراحی و توسعه سیستم‌های مبتنی بر میکروسرویس.\nتجربه کار با تکنولوژی‌های Backend مانند Node.js، Python، Java، و یا Go.\nآشنایی با کانتینرها و ابزارهای مدیریت آنها مانند Docker و Kubernetes.\nتجربه در طراحی و پیاده‌سازی APIها و سیستم‌های توزیع‌شده.\nآشنایی با پایگاه‌های داده SQL و NoSQL مانند PostgreSQL، MongoDB و Redis.\nتسلط بر مفاهیم امنیتی در سیستم‌های اطلاعات سلامت (HIPAA، GDPR).\nمهارت‌های مدیریتی قوی و توانایی در رهبری تیم‌های فنی.\nحداقل 7 سال تجربه کار در حوزه فناوری اطلاعات و حداقل 3 سال تجربه در نقش‌های مدیریتی.\n\nمهارت‌های فنی (Technical Skills):\n\nتسلط بر معماری میکروسرویس (Microservices Architecture): تجربه عملی در طراحی و توسعه سیستم‌های مبتنی بر میکروسرویس، جداسازی وظایف، و مدیریت وابستگی‌ها.\nتوسعه نرم‌افزار Backend: تجربه کار با زبان‌های برنامه‌نویسی مانند Node.js، Python، Java، Go و تسلط بر فریم‌ورک‌های مرتبط.\nتجربه در پایگاه‌های داده (Databases): آشنایی عمیق با پایگاه‌های داده SQL (مثل PostgreSQL، MySQL) و NoSQL (مثل MongoDB، Cassandra، Redis).\nتجربه با کانتینرها و ارکستراسیون (Containers and Orchestration): مهارت در کار با Docker، Kubernetes و مدیریت کانتینرها برای مقیاس‌پذیری و بهینه‌سازی منابع.\nتوسعه API و سیستم‌های توزیع‌شده (API Development and Distributed Systems): تجربه در طراحی و پیاده‌سازی APIهای RESTful و gRPC و سیستم‌های توزیع‌شده.\nDevOps و CI/CD: آشنایی با مفاهیم DevOps و ابزارهای CI/CD مانند Jenkins، GitLab CI، CircleCI برای خودکارسازی فرآیندهای توسعه و استقرار.\nامنیت سایبری (Cybersecurity): تسلط بر پروتکل‌های امنیتی، رمزنگاری داده‌ها، مدیریت هویت و دسترسی (IAM)، و الزامات امنیتی مانند GDPR و HIPAA.\nCloud Computing: تجربه کار با پلتفرم‌های ابری مانند AWS، Azure، Google Cloud و مدیریت خدمات ابری.\nمدیریت زیرساخت و شبکه (Infrastructure and Networking): توانایی مدیریت زیرساخت‌های سرور و شبکه، ذخیره‌سازی و بهینه‌سازی عملکرد.",
-      "salary": 15000000,
-      "image": null,
-      "time": null,
-      "owner": "کارفرمای جدید",
-      "id": "https://www.karlancer.com/projects/%D9%85%D8%AF%DB%8C%D8%B1-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-cto%D9%85%D8%AF%DB%8C%D8%B1-%D9%85%D8%AD%D8%B5%D9%88%D9%84pmo-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3-r78w5992181w"
-    },
-    {
-      "type": "karlancer",
-      "url": "https://www.karlancer.com/projects/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3-%D8%A8%DA%A9-%D8%A7%D9%86%D8%AF-midlevel-python-django-906n2n5506ew",
-      "title": "برنامه نویس بک اند mid-level(Python Django) فول تایم",
-      "caption": "مکان: دورکاری\nحقوق پیشنهادی حین مصاحبه اعلام خواهد شد.\n\nدرباره ما: NexaPortal یک شرکت پیشرو و نوآور است که بر ارائه راه‌حل‌های نرم‌افزاری متمرکز است. پروژه درحال انجام ما CRM تخصصی برای شرکت های توریسم سلامت است.\n\nتوضیحات شغل: ما به دنبال یک برنامه‌نویس بک‌اند میان‌رده (mid-level) با تجربه و با سابقه‌ حداقل ۲ سال در کد نویسی Python و Django هستیم تا به تیم پویای ما بپیوندد.\n\nمسئولیت‌ها:\n• همکاری با توسعه‌دهندگان فرانت‌اند، مدیران محصول و سایر ذی‌نفعان برای طراحی و پیاده‌سازی امکانات و بخش‌های جدید.\n• نوشتن کد تمیز و کارآمد \n• عیب‌یابی و رفع اشکال در برنامه‌های موجود\n• بهینه‌سازی برنامه‌ها برای حداکثر سرعت و مقیاس‌پذیری\n\nمهارت‌ها و تجارب مورد نیاز:\n• تجربه به عنوان برنامه‌نویس بک‌اند با تمرکز بر Python و Django\n• درک خوب از فناوری‌های فرانت‌اند (مانند JavaScript، HTML5 و CSS3)\n• تجربه با دیتابیس‌های رابطه‌ای (PostgreSQL، MySQL، MSSQL یک مزیت محسوب می‌شود)\n• آشنایی با سیستم‌های کنترل نسخه (Git)\n• آشنایی با استانداردهای کنویسی SOLID\n• مهارت‌های عالی در حل مسئله و توجه به جزئیات\n• مهارت‌های ارتباطی قوی\n\nشرایط ترجیحی:\n• تجربه با خدمات ابری (AWS، Azure یا Google Cloud).\n• آشنایی با Docker و ابزارهای مشابه\n• آشنایی با روش‌های Agile\n\nمزایای ما:\n• حقوق رقابتی\n• کار به صورت دورکاری\n• ساعت کاری منعطف\n• فرصت‌های رشد حرفه‌ای و توسعه شخصی\n• محیط کاری دوستانه و مبتنی بر اعتماد\n\nاگر به توسعه بک‌اند با جنگو علاقه‌مند هستید و می‌خواهید بخشی از شرکتی باشید که به نوآوری و برتری ارزش می‌دهد، خوشحال می‌شویم با شما همکاری کنیم.",
-      "salary": 500000000,
-      "image": null,
-      "time": null,
-      "owner": "کارفرمای جدید",
-      "id": "https://www.karlancer.com/projects/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3-%D8%A8%DA%A9-%D8%A7%D9%86%D8%AF-midlevel-python-django-906n2n5506ew"
-    },
-    {
-      "type": "karlancer",
-      "url": "https://www.karlancer.com/projects/senior-wordpress-developer-remote-w963r53248n3",
-      "title": "Senior WordPress Developer ( Remote )",
-      "caption": "Responsibility:\n\nWebsite development for new and existing websites\nCreate, review, and update technical documentation\nCreating new features to enhance the website products\nCustomizing external content like HubSpot forms and other content\nThe ability to cover the full range of front and back-end development needs for our website\nA deep understanding of web development best practices, including documentation, site architecture, multi-site management, security, and other critical functions\nExperience with solving real-world user problems at scale and building a user-centered culture\nCollaborate with the marketing team to explore individual and product growth opportunities\nKeep up to date on web development trends\nEnsure high performance and availability and manage all technical aspects of the CMS\nHelping formulate an effective, responsive design and turning it into a working theme and plugin\nQualifications:\n\n6+ years of experience building custom WordPress solutions\nExceptional HTML & CSS skills\nExperienced with integrating CRM tools like HubSpot and customizations. \nDemonstrable knowledge of MySQL\nDemonstrable knowledge of Bootstrap and jQuery\nFamiliar with WooCommerce\nStrong understanding of Agile Development Methodology\nExperience with Microsoft Azure technologies\nAdvanced or Fluent in English\nWhat’s in it for you:\n\nCompetitive salary\nWork from home\nFlexible hours\n\nمعرفی شرکت\nما یک شرکت بین المللی تولید نرم افزار در ونکوور کانادا هستیم که در زمینه حمل ونقل و آسانسازی حمل و نقل شهری فعالیت نرم افزاری داریم .\nما علاوه بر تیمی که در ونکور کانادا هستیم یک تیم در هند، فیلیپین و ایران داریم که همگی باهم به صورت Agile روی پروژهای مشترک کار میکنیم.\nبرای بودن توی این گروه شما علاوه بر اینکه باید در زمینه ی کارتان از دانش و تجربه بسیار بالایی برخوردار باشید.\nبا کار در DelGate شما با کسانی همکار میشوید و روزتان را می گذرانید که ازملیتهای دیگر هستند و این تجربه جدیدی در زندگی کاری شما میتونه باشه.\nمهارت‌های مورد نیاز",
-      "salary": 15000000,
-      "image": null,
-      "time": null,
-      "owner": "کارفرمای جدید",
-      "id": "https://www.karlancer.com/projects/senior-wordpress-developer-remote-w963r53248n3"
-    },
-    {
-      "type": "karlancer",
-      "url": "https://www.karlancer.com/projects/jobz-startup-w963501396n3",
-      "title": "JobZ startup",
-      "caption": "Hello smart people,\n\nAs a fast-paced software startup, we're on a mission to conquer the digital world and create game-changing web applications that blow minds and exceed expectations. We're seeking bold, brilliant, and badass Software Developers to join our dynamic team and embark on an epic journey of innovation and success.\n\nKey Responsibilities:\n\nDive headfirst into the development of our revolutionary web applications, from concept to deployment, and everything in between.\nCollaborate with a team of creative geniuses to brainstorm, design, and implement mind-blowing features that wow our users and leave the competition in the dust.\nWrite clean, elegant, and rock-solid code that sets the standard for excellence and makes our software shine brighter than a supernova.\nEmbrace challenges with gusto and tackle complex problems with creativity, ingenuity, and a touch of swagger.\nStay ahead of the curve by keeping up-to-date on the latest trends, technologies, and best practices in web development.\nRequired Skills and Qualifications:\n\nA burning passion for software development and a relentless drive to push boundaries and defy expectations.\nProven expertise in web application development, with a knack for crafting seamless, user-friendly experiences that dazzle and delight.\nComprehensive knowledge of Flutter, because let's face it, Flutter is where the magic happens!\nProficiency in programming languages such as JavaScript, HTML, CSS, and one or more related frameworks (React, Angular, Vue.js - take your pick!).\nA superhero-level understanding of web development concepts, including RESTful APIs, HTTP protocols, and cross-browser compatibility.\nFearless problem-solving skills and a willingness to tackle challenges head-on, armed with nothing but your trusty keyboard and a cup of coffee.\nExcellent communication skills and the ability to collaborate effectively with a diverse team of fellow rockstars.\n\nBonus Skills (aka Superpowers):\n\nExperience with server-side technologies like Node.js, Python, or Ruby on Rails.\nA wizard's mastery of cloud computing platforms such as AWS, Azure, or Google Cloud.\nJedi-level proficiency with relational and non-relational databases (MySQL, MongoDB - you know the drill!).\nKnowledge of DevOps practices and CI/CD pipelines, because every hero needs a sidekick (or two).",
-      "salary": 15000000,
-      "image": null,
-      "time": null,
-      "owner": "ناشناخته",
-      "id": "https://www.karlancer.com/projects/jobz-startup-w963501396n3"
-    },
-    {
-      "type": "ponisha",
-      "url": "https://ponisha.ir/project/608119/%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C-%D9%88-%D8%A7%D8%B1%D8%AC%D8%A7%D8%B9%D8%A7%D8%AA-%D8%AF%D8%B1-%D9%88%D8%A8",
-      "title": "توسعه اتوماسیون اداری و ارجاعات در وب",
-      "caption": "شرکت فکر گستر برای توسعه اتوماسیون اداری و ارجاعات در وب نیازمند همکاری یک نفر یا چند نفر از برنامه نویسان در حوزه Visual stodio .Net blazor میباشد.\nاتوماسیون اداری نوشته شده و وجود دارد و نیاز است که کامل گردد.\nاگر پیشنهاد و یا روش مطرح شده از سمت برنامه نویسان جذاب باشد میتوان از اول پروژه را استارت زد.\nداشتن رزومه کاری در زمینه مرتبط اولویت است.\nچاپ نامه یکی از نکات بسیار مهم در این طراحی میباشد.مشاهده‌ی پروژه",
-      "salary": 17000000,
-      "image": null,
-      "time": "2 روز و 14 ساعت",
-      "owner": "ناشناخته",
-      "id": "https://ponisha.ir/project/608119/%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C-%D9%88-%D8%A7%D8%B1%D8%AC%D8%A7%D8%B9%D8%A7%D8%AA-%D8%AF%D8%B1-%D9%88%D8%A8"
-    }
-  ]
+    "keyword": "azure",
+    "searchableSites": [
+        "karlancer",
+        "ponisha",
+        "jobinja",
+        "jobvision"
+    ],
+    "jobs": [
+        {
+            "type": "jobinja",
+            "url": "https://jobinja.ir/companies/artisan-2/jobs/t2aj/%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-devops-engineer-azure-%D8%AF%D9%88%D8%B1%DA%A9%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A2%D8%B1%D8%AA%DB%8C-%D8%B3%D9%85?_ref=16&_t=352e3132322e35382e3630",
+            "title": "DevOps Engineer (Azure-دورکاری)",
+            "caption": null,
+            "salary": -1,
+            "salaryStart": -1,
+            "salaryEnd": -1,
+            "image": "https://thumb2.jobinjacdn.com/t2VbkKJWg2PNzZpZmtdP0H5mFIU=/fit-in/128x128/filters:strip_exif():fill(white):quality(100)/https://mstorage2.jobinjacdn.com/other/files/uploads/images/36684a64-4a2f-451e-a869-f33e1fc2bbee/main.jpg",
+            "time": "۴۹ روز پیش",
+            "owner": "آرتی سم | Artisan",
+            "location": "تهران، تهران",
+            "jobType": "قرارداد دورکاری",
+            "id": "https://jobinja.ir/companies/artisan-2/jobs/t2aj/%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-devops-engineer-azure-%D8%AF%D9%88%D8%B1%DA%A9%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A2%D8%B1%D8%AA%DB%8C-%D8%B3%D9%85?_ref=16&_t=352e3132322e35382e3630"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/939967/استخدام-کارشناس-اسکرام-مستر---آقا?row=1&pageSize=30&keyword=azure&searchId=389248056995183107&score=5.535699247999999&ReferrerJobPosition=8",
+            "title": "کارشناس اسکرام مستر - آقا",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "23 روز پیش",
+            "owner": "فناوری اطلاعات مهر اندیش آکام",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/939967/استخدام-کارشناس-اسکرام-مستر---آقا?row=1&pageSize=30&keyword=azure&searchId=389248056995183107&score=5.535699247999999&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1174527/استخدام-اسکرام-مستر?row=2&pageSize=30&keyword=azure&searchId=389248056995183107&score=5.375530006&ReferrerJobPosition=8",
+            "title": "اسکرام مستر",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "18 روز پیش",
+            "owner": "شرکت مهندسی کسرا",
+            "location": "اصفهان",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1174527/استخدام-اسکرام-مستر?row=2&pageSize=30&keyword=azure&searchId=389248056995183107&score=5.375530006&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1160688/استخدام-کارشناس-devops?row=3&pageSize=30&keyword=azure&searchId=389248056995183107&score=5.137215196800001&ReferrerJobPosition=8",
+            "title": "کارشناس DevOps",
+            "caption": null,
+            "salary": 45000000,
+            "salaryStart": 45000000,
+            "salaryEnd": 65000000,
+            "image": null,
+            "time": "15 روز پیش",
+            "owner": "شرکت بورس کالای ایران",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1160688/استخدام-کارشناس-devops?row=3&pageSize=30&keyword=azure&searchId=389248056995183107&score=5.137215196800001&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1189282/استخدام-devops-engineer?row=4&pageSize=30&keyword=azure&searchId=389248056995183107&score=5.0853910376&ReferrerJobPosition=8",
+            "title": "DevOps Engineer",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "دیروز",
+            "owner": "یونیکورن",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1189282/استخدام-devops-engineer?row=4&pageSize=30&keyword=azure&searchId=389248056995183107&score=5.0853910376&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1170823/استخدام-برنامه-نویس-csharp?row=5&pageSize=30&keyword=azure&searchId=389248056995183107&score=4.966786114&ReferrerJobPosition=8",
+            "title": "برنامه نویس C#",
+            "caption": null,
+            "salary": 35000000,
+            "salaryStart": 35000000,
+            "salaryEnd": 50000000,
+            "image": "https://jobvision.ir/assets/images/jobs/close-white.svg",
+            "time": "3 روز پیش",
+            "owner": "گروه ترنا",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1170823/استخدام-برنامه-نویس-csharp?row=5&pageSize=30&keyword=azure&searchId=389248056995183107&score=4.966786114&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1120350/استخدام-scrum-master?row=6&pageSize=30&keyword=azure&searchId=389248056995183107&score=4.038291662&ReferrerJobPosition=8",
+            "title": "Scrum Master",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "8 روز پیش",
+            "owner": "پرداخت الکترونیک سامان کیش (سپ)",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1120350/استخدام-scrum-master?row=6&pageSize=30&keyword=azure&searchId=389248056995183107&score=4.038291662&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1185600/استخدام-برنامه-نویس-back-end?row=7&pageSize=30&keyword=azure&searchId=389248056995183107&score=4.9562929039&ReferrerJobPosition=8",
+            "title": "برنامه نویس Back-End",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "4 روز پیش",
+            "owner": "شرکت مهندسی کسرا",
+            "location": "اصفهان",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1185600/استخدام-برنامه-نویس-back-end?row=7&pageSize=30&keyword=azure&searchId=389248056995183107&score=4.9562929039&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1180312/استخدام-مدیر-پروژه-تولید-نرم-افزار?row=8&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.9523693280000005&ReferrerJobPosition=8",
+            "title": "مدیر پروژه (تولید نرم افزار)",
+            "caption": null,
+            "salary": 30000000,
+            "salaryStart": 30000000,
+            "salaryEnd": 45000000,
+            "image": null,
+            "time": "11 روز پیش",
+            "owner": "شرکت مهندسین مشاور آناهیتا فن پارس",
+            "location": "شیراز",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1180312/استخدام-مدیر-پروژه-تولید-نرم-افزار?row=8&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.9523693280000005&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1159125/استخدام-ai-engineer?row=9&pageSize=30&keyword=azure&searchId=389248056995183107&score=4.913683667&ReferrerJobPosition=8",
+            "title": "Ai Engineer",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "22 روز پیش",
+            "owner": "فلای تودی",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1159125/استخدام-ai-engineer?row=9&pageSize=30&keyword=azure&searchId=389248056995183107&score=4.913683667&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1169052/استخدام-کارشناس-ارشد-پایگاه-داده-sql-server?row=10&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.3440295043&ReferrerJobPosition=8",
+            "title": "کارشناس ارشد پایگاه داده (SQL Server)",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "5 روز پیش",
+            "owner": "اوزون",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1169052/استخدام-کارشناس-ارشد-پایگاه-داده-sql-server?row=10&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.3440295043&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1178014/استخدام-برنامه-نویس-front-end?row=11&pageSize=30&keyword=azure&searchId=389248056995183107&score=4.604321152&ReferrerJobPosition=8",
+            "title": "برنامه نویس Front-End",
+            "caption": null,
+            "salary": 20000000,
+            "salaryStart": 20000000,
+            "salaryEnd": 30000000,
+            "image": null,
+            "time": "15 روز پیش",
+            "owner": "شرکت صدرا افزار مانا",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1178014/استخدام-برنامه-نویس-front-end?row=11&pageSize=30&keyword=azure&searchId=389248056995183107&score=4.604321152&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/881859/استخدام-اسکرام-مستر-scrum-master?row=12&pageSize=30&keyword=azure&searchId=389248056995183107&score=4.0736587658&ReferrerJobPosition=8",
+            "title": "اسکرام مستر (Scrum Master)",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "4 روز پیش",
+            "owner": "فلای تودی",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/881859/استخدام-اسکرام-مستر-scrum-master?row=12&pageSize=30&keyword=azure&searchId=389248056995183107&score=4.0736587658&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1159777/استخدام-توسعه‌دهنده-full-stack-react-plus-net-core?row=13&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.1872156936000002&ReferrerJobPosition=8",
+            "title": "توسعه‌دهنده Full Stack (React + .NET Core)",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "23 روز پیش",
+            "owner": "شرکت صدرا افزار مانا",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1159777/استخدام-توسعه‌دهنده-full-stack-react-plus-net-core?row=13&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.1872156936000002&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1135330/استخدام-senior-full-stack-developer?row=14&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.1031554664&ReferrerJobPosition=8",
+            "title": "Senior Full-Stack Developer",
+            "caption": null,
+            "salary": 30000000,
+            "salaryStart": 30000000,
+            "salaryEnd": 40000000,
+            "image": null,
+            "time": "18 روز پیش",
+            "owner": "هولدینگ کاسپین",
+            "location": "امکان دورکاری",
+            "jobType": "امکان دورکاری",
+            "id": "https://jobvision.ir/jobs/1135330/استخدام-senior-full-stack-developer?row=14&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.1031554664&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1188349/استخدام-security-automation-engineer?row=15&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.9132078792000002&ReferrerJobPosition=8",
+            "title": "Security Automation Engineer",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "دیروز",
+            "owner": "شرکت خدمات انفورماتیک",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1188349/استخدام-security-automation-engineer?row=15&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.9132078792000002&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1188996/استخدام-software-engineer-back-end?row=16&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.535309738&ReferrerJobPosition=8",
+            "title": "Software Engineer (Back-End)",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "دیروز",
+            "owner": "زرینو",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1188996/استخدام-software-engineer-back-end?row=16&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.535309738&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1176193/استخدام-devops-engineer?row=17&pageSize=30&keyword=azure&searchId=389248056995183107&score=2.8177638016&ReferrerJobPosition=8",
+            "title": "DevOps Engineer",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "6 روز پیش",
+            "owner": "نوآوران داده سلامت پیشرو",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1176193/استخدام-devops-engineer?row=17&pageSize=30&keyword=azure&searchId=389248056995183107&score=2.8177638016&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1166177/استخدام-mid-level-devops-engineer?row=18&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.469547296&ReferrerJobPosition=8",
+            "title": "Mid-Level DevOps Engineer",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "29 روز پیش",
+            "owner": "هایپرمارکتهای ماف پارس - هایپراستار",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1166177/استخدام-mid-level-devops-engineer?row=18&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.469547296&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1135331/استخدام-chief-technology-officer-cto?row=19&pageSize=30&keyword=azure&searchId=389248056995183107&score=2.8796046510000006&ReferrerJobPosition=8",
+            "title": "Chief Technology Officer (CTO)",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": "https://fileapi.jobvision.ir/StaticFiles/Employer/DefaultImages/default-companyLogo.png?v=20231122",
+            "time": "18 روز پیش",
+            "owner": "Company active in Finance / Investment industry",
+            "location": "امکان دورکاری",
+            "jobType": "امکان دورکاری",
+            "id": "https://jobvision.ir/jobs/1135331/استخدام-chief-technology-officer-cto?row=19&pageSize=30&keyword=azure&searchId=389248056995183107&score=2.8796046510000006&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1158524/استخدام-کارشناس-devops---آقا?row=20&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.4537959179999995&ReferrerJobPosition=8",
+            "title": "کارشناس DevOps - آقا",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "37 روز پیش",
+            "owner": "داده پردازان بنیان آوا",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1158524/استخدام-کارشناس-devops---آقا?row=20&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.4537959179999995&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1181674/استخدام-توسعه-دهنده-net?row=21&pageSize=30&keyword=azure&searchId=389248056995183107&score=2.8693280979999995&ReferrerJobPosition=8",
+            "title": "توسعه دهنده .NET",
+            "caption": null,
+            "salary": 40000000,
+            "salaryStart": 40000000,
+            "salaryEnd": 45000000,
+            "image": null,
+            "time": "9 روز پیش",
+            "owner": "فن آوا کارت",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1181674/استخدام-توسعه-دهنده-net?row=21&pageSize=30&keyword=azure&searchId=389248056995183107&score=2.8693280979999995&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1162808/استخدام-senior-security-analyst?row=22&pageSize=30&keyword=azure&searchId=389248056995183107&score=2.4050493302000002&ReferrerJobPosition=8",
+            "title": "Senior Security Analyst",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "12 روز پیش",
+            "owner": "اسنپ مارکت",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1162808/استخدام-senior-security-analyst?row=22&pageSize=30&keyword=azure&searchId=389248056995183107&score=2.4050493302000002&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1153338/استخدام-test-engineer?row=23&pageSize=30&keyword=azure&searchId=389248056995183107&score=2.7723724549999997&ReferrerJobPosition=8",
+            "title": "Test Engineer",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "25 روز پیش",
+            "owner": "برقتو",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1153338/استخدام-test-engineer?row=23&pageSize=30&keyword=azure&searchId=389248056995183107&score=2.7723724549999997&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1181220/استخدام-کارشناس-امنیت-اطلاعات?row=24&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.2658204513999998&ReferrerJobPosition=8",
+            "title": "کارشناس امنیت اطلاعات",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "9 روز پیش",
+            "owner": "عصر پردازش اطلاعات امین",
+            "location": "قم",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1181220/استخدام-کارشناس-امنیت-اطلاعات?row=24&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.2658204513999998&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1164660/استخدام-full-stack-developer-web--mobile-platforms?row=25&pageSize=30&keyword=azure&searchId=389248056995183107&score=2.1486977832000003&ReferrerJobPosition=8",
+            "title": "Full Stack Developer (Web & Mobile Platforms)",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "10 روز پیش",
+            "owner": "AI Techlife",
+            "location": "امکان دورکاری",
+            "jobType": "امکان دورکاری",
+            "id": "https://jobvision.ir/jobs/1164660/استخدام-full-stack-developer-web--mobile-platforms?row=25&pageSize=30&keyword=azure&searchId=389248056995183107&score=2.1486977832000003&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1183470/استخدام-technical-manager?row=26&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.169595385&ReferrerJobPosition=8",
+            "title": "Technical Manager",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "7 روز پیش",
+            "owner": "بهسا (تابعه هلدینگ همراه اول)",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1183470/استخدام-technical-manager?row=26&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.169595385&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1166192/استخدام-senior-net-developer?row=27&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.0818364128000004&ReferrerJobPosition=8",
+            "title": "Senior .NET Developer",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "29 روز پیش",
+            "owner": "هایپرمارکتهای ماف پارس - هایپراستار",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1166192/استخدام-senior-net-developer?row=27&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.0818364128000004&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1172868/استخدام-senior-linux-system-specialist-زبلاین?row=28&pageSize=30&keyword=azure&searchId=389248056995183107&score=1.9944637083999999&ReferrerJobPosition=8",
+            "title": "Senior Linux System Specialist (زبلاین)",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "دیروز",
+            "owner": "صبا ایده(فناوران ایده پرداز صبا)",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1172868/استخدام-senior-linux-system-specialist-زبلاین?row=28&pageSize=30&keyword=azure&searchId=389248056995183107&score=1.9944637083999999&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1163428/استخدام-پژوهشگر-هوش-مصنوعی?row=29&pageSize=30&keyword=azure&searchId=389248056995183107&score=2.261203562&ReferrerJobPosition=8",
+            "title": "پژوهشگر (هوش مصنوعی)",
+            "caption": null,
+            "salary": 50000000,
+            "salaryStart": 50000000,
+            "salaryEnd": 70000000,
+            "image": null,
+            "time": "31 روز پیش",
+            "owner": "شرکت داده پردازی پلتفورم پرایم",
+            "location": "تهران",
+            "jobType": "امکان دورکاری",
+            "id": "https://jobvision.ir/jobs/1163428/استخدام-پژوهشگر-هوش-مصنوعی?row=29&pageSize=30&keyword=azure&searchId=389248056995183107&score=2.261203562&ReferrerJobPosition=8"
+        },
+        {
+            "type": "jobvision",
+            "url": "https://jobvision.ir/jobs/1082073/استخدام-senior-java-developer?row=30&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.0667428622&ReferrerJobPosition=8",
+            "title": "Senior Java Developer",
+            "caption": null,
+            "salary": 0,
+            "salaryStart": 0,
+            "salaryEnd": 0,
+            "image": null,
+            "time": "15 روز پیش",
+            "owner": "بهسا (تابعه هلدینگ همراه اول)",
+            "location": "تهران",
+            "jobType": null,
+            "id": "https://jobvision.ir/jobs/1082073/استخدام-senior-java-developer?row=30&pageSize=30&keyword=azure&searchId=389248056995183107&score=3.0667428622&ReferrerJobPosition=8"
+        }
+    ],
+    "freelancers": [
+        {
+            "type": "karlancer",
+            "url": "https://www.karlancer.com/projects/%D9%85%D8%AF%DB%8C%D8%B1-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-cto%D9%85%D8%AF%DB%8C%D8%B1-%D9%85%D8%AD%D8%B5%D9%88%D9%84pmo-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3-r78w5992181w",
+            "title": "مدیر فناوری cto/مدیر محصولpmo/ برنامه نویس",
+            "caption": "ما در حال توسعه یک سیستم پرونده الکترونیک سلامت (EHR) پیشرفته با معماری میکروسرویس است. این سیستم با هدف بهبود مدیریت اطلاعات ، ارائه خدمات هوشمند و مشاوره ، و افزایش امنیت داده‌های پزشکی طراحی شده است. ما به دنبال افراد باانگیزه و خلاق برای پیوستن به تیم پویا و روبه‌رشد خود هستیم.\n\nلطفا پس از مطالعه مهارت های مورد نیاز ، رزومه واقعی متناسب با توانایی ها ارسال کنید. در صورت نداشتن سابقه مدیریتی یا چک لیست های مورد نیاز ، رزومه متناسب خود را ارسال کنید تا جهت همکاری در رول های دیگر در تیم های زیرساخت ، طراحی( front-end , back , data ) , ... در نظر گرفته شوید و جهت مصاحبه مورد بررسی قرار میگیرد.\n\nمسئولیت‌ها:\nطراحی، توسعه و پیاده‌سازی معماری میکروسرویس برای سیستم EHR با تمرکز بر امنیت، مقیاس‌پذیری و عملکرد.\nهدایت تیم‌های توسعه‌دهنده نرم‌افزار و نظارت بر اجرای پروژه‌های فنی.\nایجاد و پیاده‌سازی استراتژی‌های فناوری و زیرساخت‌های فنی.\nاطمینان از یکپارچگی با سیستم‌های خارجی مانند HIS، LIS، و شرکت‌های بیمه.\nمدیریت فرآیندهای DevOps و CI/CD برای بهبود کارایی توسعه و استقرار.\nهمکاری با سایر مدیران برای هماهنگی پروژه‌ها و دستیابی به اهداف سازمانی.\nتوانایی‌ها و مهارت‌های مورد نیاز:\nتسلط بر معماری میکروسرویس و تجربیات عملی در طراحی و توسعه سیستم‌های مبتنی بر میکروسرویس.\nتجربه کار با تکنولوژی‌های Backend مانند Node.js، Python، Java، و یا Go.\nآشنایی با کانتینرها و ابزارهای مدیریت آنها مانند Docker و Kubernetes.\nتجربه در طراحی و پیاده‌سازی APIها و سیستم‌های توزیع‌شده.\nآشنایی با پایگاه‌های داده SQL و NoSQL مانند PostgreSQL، MongoDB و Redis.\nتسلط بر مفاهیم امنیتی در سیستم‌های اطلاعات سلامت (HIPAA، GDPR).\nمهارت‌های مدیریتی قوی و توانایی در رهبری تیم‌های فنی.\nحداقل 7 سال تجربه کار در حوزه فناوری اطلاعات و حداقل 3 سال تجربه در نقش‌های مدیریتی.\n\nمهارت‌های فنی (Technical Skills):\n\nتسلط بر معماری میکروسرویس (Microservices Architecture): تجربه عملی در طراحی و توسعه سیستم‌های مبتنی بر میکروسرویس، جداسازی وظایف، و مدیریت وابستگی‌ها.\nتوسعه نرم‌افزار Backend: تجربه کار با زبان‌های برنامه‌نویسی مانند Node.js، Python، Java، Go و تسلط بر فریم‌ورک‌های مرتبط.\nتجربه در پایگاه‌های داده (Databases): آشنایی عمیق با پایگاه‌های داده SQL (مثل PostgreSQL، MySQL) و NoSQL (مثل MongoDB، Cassandra، Redis).\nتجربه با کانتینرها و ارکستراسیون (Containers and Orchestration): مهارت در کار با Docker، Kubernetes و مدیریت کانتینرها برای مقیاس‌پذیری و بهینه‌سازی منابع.\nتوسعه API و سیستم‌های توزیع‌شده (API Development and Distributed Systems): تجربه در طراحی و پیاده‌سازی APIهای RESTful و gRPC و سیستم‌های توزیع‌شده.\nDevOps و CI/CD: آشنایی با مفاهیم DevOps و ابزارهای CI/CD مانند Jenkins، GitLab CI، CircleCI برای خودکارسازی فرآیندهای توسعه و استقرار.\nامنیت سایبری (Cybersecurity): تسلط بر پروتکل‌های امنیتی، رمزنگاری داده‌ها، مدیریت هویت و دسترسی (IAM)، و الزامات امنیتی مانند GDPR و HIPAA.\nCloud Computing: تجربه کار با پلتفرم‌های ابری مانند AWS، Azure، Google Cloud و مدیریت خدمات ابری.\nمدیریت زیرساخت و شبکه (Infrastructure and Networking): توانایی مدیریت زیرساخت‌های سرور و شبکه، ذخیره‌سازی و بهینه‌سازی عملکرد.",
+            "salary": 15000000,
+            "image": null,
+            "time": null,
+            "owner": "کارفرمای جدید",
+            "id": "https://www.karlancer.com/projects/%D9%85%D8%AF%DB%8C%D8%B1-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-cto%D9%85%D8%AF%DB%8C%D8%B1-%D9%85%D8%AD%D8%B5%D9%88%D9%84pmo-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3-r78w5992181w"
+        },
+        {
+            "type": "karlancer",
+            "url": "https://www.karlancer.com/projects/senior-wordpress-developer-remote-w963r53248n3",
+            "title": "Senior WordPress Developer ( Remote )",
+            "caption": "Responsibility:\n\nWebsite development for new and existing websites\nCreate, review, and update technical documentation\nCreating new features to enhance the website products\nCustomizing external content like HubSpot forms and other content\nThe ability to cover the full range of front and back-end development needs for our website\nA deep understanding of web development best practices, including documentation, site architecture, multi-site management, security, and other critical functions\nExperience with solving real-world user problems at scale and building a user-centered culture\nCollaborate with the marketing team to explore individual and product growth opportunities\nKeep up to date on web development trends\nEnsure high performance and availability and manage all technical aspects of the CMS\nHelping formulate an effective, responsive design and turning it into a working theme and plugin\nQualifications:\n\n6+ years of experience building custom WordPress solutions\nExceptional HTML & CSS skills\nExperienced with integrating CRM tools like HubSpot and customizations. \nDemonstrable knowledge of MySQL\nDemonstrable knowledge of Bootstrap and jQuery\nFamiliar with WooCommerce\nStrong understanding of Agile Development Methodology\nExperience with Microsoft Azure technologies\nAdvanced or Fluent in English\nWhat’s in it for you:\n\nCompetitive salary\nWork from home\nFlexible hours\n\nمعرفی شرکت\nما یک شرکت بین المللی تولید نرم افزار در ونکوور کانادا هستیم که در زمینه حمل ونقل و آسانسازی حمل و نقل شهری فعالیت نرم افزاری داریم .\nما علاوه بر تیمی که در ونکور کانادا هستیم یک تیم در هند، فیلیپین و ایران داریم که همگی باهم به صورت Agile روی پروژهای مشترک کار میکنیم.\nبرای بودن توی این گروه شما علاوه بر اینکه باید در زمینه ی کارتان از دانش و تجربه بسیار بالایی برخوردار باشید.\nبا کار در DelGate شما با کسانی همکار میشوید و روزتان را می گذرانید که ازملیتهای دیگر هستند و این تجربه جدیدی در زندگی کاری شما میتونه باشه.\nمهارت‌های مورد نیاز",
+            "salary": 15000000,
+            "image": null,
+            "time": null,
+            "owner": "کارفرمای جدید",
+            "id": "https://www.karlancer.com/projects/senior-wordpress-developer-remote-w963r53248n3"
+        },
+        {
+            "type": "karlancer",
+            "url": "https://www.karlancer.com/projects/jobz-startup-w963501396n3",
+            "title": "JobZ startup",
+            "caption": "Hello smart people,\n\nAs a fast-paced software startup, we're on a mission to conquer the digital world and create game-changing web applications that blow minds and exceed expectations. We're seeking bold, brilliant, and badass Software Developers to join our dynamic team and embark on an epic journey of innovation and success.\n\nKey Responsibilities:\n\nDive headfirst into the development of our revolutionary web applications, from concept to deployment, and everything in between.\nCollaborate with a team of creative geniuses to brainstorm, design, and implement mind-blowing features that wow our users and leave the competition in the dust.\nWrite clean, elegant, and rock-solid code that sets the standard for excellence and makes our software shine brighter than a supernova.\nEmbrace challenges with gusto and tackle complex problems with creativity, ingenuity, and a touch of swagger.\nStay ahead of the curve by keeping up-to-date on the latest trends, technologies, and best practices in web development.\nRequired Skills and Qualifications:\n\nA burning passion for software development and a relentless drive to push boundaries and defy expectations.\nProven expertise in web application development, with a knack for crafting seamless, user-friendly experiences that dazzle and delight.\nComprehensive knowledge of Flutter, because let's face it, Flutter is where the magic happens!\nProficiency in programming languages such as JavaScript, HTML, CSS, and one or more related frameworks (React, Angular, Vue.js - take your pick!).\nA superhero-level understanding of web development concepts, including RESTful APIs, HTTP protocols, and cross-browser compatibility.\nFearless problem-solving skills and a willingness to tackle challenges head-on, armed with nothing but your trusty keyboard and a cup of coffee.\nExcellent communication skills and the ability to collaborate effectively with a diverse team of fellow rockstars.\n\nBonus Skills (aka Superpowers):\n\nExperience with server-side technologies like Node.js, Python, or Ruby on Rails.\nA wizard's mastery of cloud computing platforms such as AWS, Azure, or Google Cloud.\nJedi-level proficiency with relational and non-relational databases (MySQL, MongoDB - you know the drill!).\nKnowledge of DevOps practices and CI/CD pipelines, because every hero needs a sidekick (or two).",
+            "salary": 15000000,
+            "image": null,
+            "time": null,
+            "owner": "ناشناخته",
+            "id": "https://www.karlancer.com/projects/jobz-startup-w963501396n3"
+        },
+        {
+            "type": "karlancer",
+            "url": "https://www.karlancer.com/projects/%D8%B3%D8%A7%D8%AE%D8%AA%D9%86-%D8%A7%D9%BE%D9%BE%D9%84%DB%8C%DA%A9%D8%B4%D9%86-%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF-ios-r78wowm1181w",
+            "title": "ساختن اپپلیکشن اندروید و ios",
+            "caption": "سلام، پروژه دارای ۲ فاز می‌باشد. هدف فاز اول ساختن اپپلیکشن اندرید و ios.  اپپلیکشن باید ۱- قابلیت عکس گرفتن و ضبط کردن ویدئو داشته باشد. ۲- قابلیت brows و آپلود داشته باشد، ۳) قابلیت تماس از طریقه چت و ویدئو داشته باشد. ۴) قابلیت ارسال و دریافت نتیفیکشن (notification) داشته باشد. بر اساس محیط برنامه نویسی که شما انجام میدید امکان فراهم کردن یک سورس کد اولیه fron-end تحت flutter یا Javascript برای شما و بر اساس نیاز شما هست. \n\nفعلا تمرکز روی فاز ۱ هست، ولی اگر شما به ساخت اپپلیکشن وب و یا شبکه ( ترجیحا azure) آشنا هستید، احتمال همکاری در فاز بعدی هست.\nزمان پیشنهادی بر اساس گفتگوی اولیه تصمیم گیری خواهد شد.",
+            "salary": 8000000,
+            "image": null,
+            "time": null,
+            "owner": "کارفرمای جدید",
+            "id": "https://www.karlancer.com/projects/%D8%B3%D8%A7%D8%AE%D8%AA%D9%86-%D8%A7%D9%BE%D9%BE%D9%84%DB%8C%DA%A9%D8%B4%D9%86-%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF-ios-r78wowm1181w"
+        },
+        {
+            "type": "karlancer",
+            "url": "https://www.karlancer.com/projects/%D8%AA%D9%87%DB%8C%D9%87-%D9%86%D8%B1%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%DB%8C-%D8%AD%D9%88%D8%B2%D9%87-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%D8%A8%D8%B3%D8%AA%D8%B1-microsoft-e7812eo9r6o1",
+            "title": "تهیه نرم افزاری در حوزه خدمات عمومی در بستر Microsoft Azure",
+            "caption": "نرم افزاری در پلتفرم آمازون است که نیاز است مطابق آن در ماکروسافت آژور پیاده سازی شود. توضیحات تکمیلی در چت ارائه خواهد شد.",
+            "salary": 25000000,
+            "image": null,
+            "time": null,
+            "owner": "کارفرمای جدید",
+            "id": "https://www.karlancer.com/projects/%D8%AA%D9%87%DB%8C%D9%87-%D9%86%D8%B1%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%DB%8C-%D8%AD%D9%88%D8%B2%D9%87-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%D8%A8%D8%B3%D8%AA%D8%B1-microsoft-e7812eo9r6o1"
+        },
+        {
+            "type": "karlancer",
+            "url": "https://www.karlancer.com/projects/%D9%BE%DB%8C%D8%A7%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-cicd-pipeline-4906nrm2o6ew",
+            "title": "پیاده سازی ci/cd pipeline",
+            "caption": "شما یک مشکل رو تعریف میکنید یا در اصل ( CI\\CD pipeline scenario ) و مطرح کردن موضوعات و بحثی که مربوط به مدیریت و چالش های پروژه ، کد نویسیش و پیاده سازیش هست ( در قالب یک ویس هم بدید کافیه )\n\n2:توجیح اینکه چرا از زبان برنامه نویسی مورد نظرتون ( مهم نیست چ زبانی ولی ترجیحا پایتون ) و کدام فضا ( aws یا google cloud یا azure ) استفاده شده و دلیل استفاده از هر تکنولوژی که استفاده شده چی هست؟ ( در قالب ویس هم بدید کافیه ) \n\n3:تعریف Metric برای پروژه و سنجش عملکردش به هر روشی که براتون راحته\n\n4:نتیجه گیری که چه محدودیت ها و پیشنهادهایی برای بهتر شدنش هست ( در قالب ویس کافیه )\n\nو در پایان از هر محله از کار نیازمند اسکرین شات هستم و نیازی به دریافت سورس کد برنامه نویسی ندارم چون خروجی بنده قراره یه گزارش ترکیبی از تکست و اسکرین شات باشه و همینطور کار کپی از نت نباشه .",
+            "salary": 1000000,
+            "image": null,
+            "time": null,
+            "owner": "کارفرمای جدید",
+            "id": "https://www.karlancer.com/projects/%D9%BE%DB%8C%D8%A7%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-cicd-pipeline-4906nrm2o6ew"
+        },
+        {
+            "type": "karlancer",
+            "url": "https://www.karlancer.com/projects/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%AC%D8%A7%D9%88%D8%A7-4906n7n158ew",
+            "title": "برنامه نویسی جاوا",
+            "caption": "پروژه مورد نظر به صورت کلی‌ انتقال داده‌ها به Microsoft Azure و پیاده سازی آنها درPower BI می‌باشد.\nدر این راستا از شما برنامه نویس ماهر جاوا، آشنا به پایگاه داده، Cloud و مسلط به زبان انگلیسی‌ (در نوشتن و خواندن، گفتار اهمیت ندارد) دعوت به همکاری می‌کنیم.\nبرای اطلاعات بیشتر در مورد ابعاد پروژه و چگونگی اجرای آن لطفا پیشنهاد خودتون رو ثبت کنید.\nبا تشکر",
+            "salary": 22000000,
+            "image": null,
+            "time": null,
+            "owner": "کارفرمای جدید",
+            "id": "https://www.karlancer.com/projects/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%AC%D8%A7%D9%88%D8%A7-4906n7n158ew"
+        },
+        {
+            "type": "karlancer",
+            "url": "https://www.karlancer.com/projects/java-%D8%AC%D8%A7%D9%88%D8%A7-%D8%AF%D9%88%D9%84%D9%88%D9%BE%D8%B1-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-mw187e57w80r",
+            "title": "java جاوا دولوپر حرفه ای",
+            "caption": "برای یک پروژه‌ی کلود مایگریشن در microsoft azure به یک همکار دولوپر جاوا نیاز داریم که به خواندن و نوشتن زبان انگلیسی آشنایی کامل داشته و تا حدودی به کلود هم آشنا باشه. قطعا انتظار اینه که به دیتابس و data modeling هم مسلط باشه.",
+            "salary": 30000000,
+            "image": null,
+            "time": null,
+            "owner": "ناشناخته",
+            "id": "https://www.karlancer.com/projects/java-%D8%AC%D8%A7%D9%88%D8%A7-%D8%AF%D9%88%D9%84%D9%88%D9%BE%D8%B1-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-mw187e57w80r"
+        },
+        {
+            "type": "ponisha",
+            "url": "https://ponisha.ir/project/647316/%D8%AA%D9%88%D8%B3%D8%B9%D9%87%E2%80%8C%D8%AF%D9%87%D9%86%D8%AF%D9%87-%D8%A8%DA%A9%E2%80%8C%D8%A7%D9%86%D8%AF-(Django---Python",
+            "title": "توسعه‌دهنده بک‌اند (Django / Python)",
+            "caption": "ما در حال ساخت یک پلتفرم هوشمند در حوزه املاک هستیم که با کمک هوش مصنوعی به مشاوران و سرمایه‌گذاران کمک می‌کند سریع‌تر و دقیق‌تر ملک‌های مناسب را پیدا کنند. محصول ما با تحلیل داده‌ها، یادگیری از ترجیحات کاربر و ابزارهای تعاملی، تجربه‌ای نوآورانه در جستجوی املاک ارائه می‌دهد.\n\nبه دنبال یک توسعه‌دهنده بک‌اند با تخصص در Django هستیم که بتواند هسته‌ی فنی محصول را توسعه و مقیاس‌پذیر کند.\n\nوظایف\n\nطراحی و توسعه سرویس‌های بک‌اند با استفاده از Django و Django REST Framework\n\nپیاده‌سازی و بهینه‌سازی APIها (REST یا GraphQL) برای وب و اپلیکیشن موبایل\n\nطراحی و مدیریت دیتابیس‌های پیچیده با PostgreSQL\n\nراه‌اندازی و مدیریت وظایف پس‌زمینه با Celery و Redis\n\nمدیریت احراز هویت و امنیت داده‌ها (OAuth, JWT, Role-based access)\n\nیکپارچه‌سازی با APIهای شخص ثالث (داده‌های املاک، سرویس‌های نقشه، سیستم پرداخت و …)\n\nدیپلوی و مقیاس‌گذاری اپلیکیشن‌ها روی AWS/GCP/Azure (تجربه با Docker یا Kubernetes امتیاز محسوب می‌شود)\n\nهمکاری نزدیک با تیم فرانت‌اند، طراح محصول و تیم هوش مصنوعی برای ارائه ویژگی‌های جدید\n\nنوشتن کد تمیز، تست‌پذیر و قابل نگهداری (Unit Test، Integration Test، CI/CD)\n\nمشارکت در تصمیم‌گیری‌های معماری و تعریف بهترین رویه‌ها برای توسعه بک‌اند\n\nشرایط لازم\n\nحداقل ۳ سال تجربه کاری به عنوان توسعه‌دهنده بک‌اند (Django / Python الزامی است)\n\nتسلط کامل بر Django ORM، migrations و طراحی ساختار دیتابیس\n\nتجربه عملی با Django REST Framework\n\nتسلط به PostgreSQL (ایندکس‌ها، بهینه‌سازی کوئری‌ها)\n\nآشنایی با Redis (کشینگ، pub/sub یا صف)\n\nتجربه کار با Celery یا سایر ابزارهای مدیریت وظایف پس‌زمینه\n\nآشنایی با مفاهیم امنیتی در APIها و مدیریت احراز هویت (JWT, OAuth)\n\nتجربه کار با Docker و چرخه‌های دیپلوی مدرن\n\nتسلط به Git و کار تیمی (Pull Request، Code Review)\n\nمهارت حل مسئله و توانایی کار در فضای استارتاپی پویا\n\nمزیت محسوب می‌شود اگر:\n\nتجربه با Django Channels (وب‌سوکت / real-time) داشته باشید\n\nبا PostGIS و کوئری‌های جغرافیایی کار کرده باشید\n\nتجربه کار با AWS (EC2, S3, RDS, Lambda) داشته باشید\n\nبا کتابخانه‌های یادگیری ماشین در پایتون آشنایی داشته باشید\n\nبا ابزارهای مانیتورینگ و لاگینگ (Sentry، Prometheus، ELK) کار کرده باشیمشاهده‌ی پروژه",
+            "salary": 50000000,
+            "image": null,
+            "time": "5 روز و 15 ساعت",
+            "owner": "ناشناخته",
+            "id": "https://ponisha.ir/project/647316/%D8%AA%D9%88%D8%B3%D8%B9%D9%87%E2%80%8C%D8%AF%D9%87%D9%86%D8%AF%D9%87-%D8%A8%DA%A9%E2%80%8C%D8%A7%D9%86%D8%AF-(Django---Python"
+        }
+    ]
 }
